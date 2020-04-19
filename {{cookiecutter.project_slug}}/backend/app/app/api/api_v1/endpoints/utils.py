@@ -4,7 +4,11 @@ from pydantic.networks import EmailStr
 from app.api.utils.security import get_current_active_superuser
 from app.core.celery_app import celery_app
 from app.schemas.msg import Msg
+<<<<<<< HEAD
 from app.schemas.user import User   # noqa: F401
+=======
+from app.schemas.user import User  # noqa: F401
+>>>>>>> upstream/master
 from app.models.user import User as DBUser
 from app.utils import send_test_email
 

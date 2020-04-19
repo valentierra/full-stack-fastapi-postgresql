@@ -1,6 +1,11 @@
 from pydantic import BaseModel
 
+<<<<<<< HEAD
 from .user import User # noqa: F401
+=======
+from .user import User  # noqa: F401
+
+>>>>>>> upstream/master
 
 # Shared properties
 class ItemBase(BaseModel):
