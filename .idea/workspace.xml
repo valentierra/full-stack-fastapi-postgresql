@@ -26,200 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee0b3cd8-2b61-4f14-944e-9197edfe2960" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/full-stack-fastapi-postgresql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cookiecutter.json" beforeDir="false" afterPath="$PROJECT_DIR$/cookiecutter.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev-fsfp-back.sh" beforeDir="false" afterPath="$PROJECT_DIR$/dev-fsfp-back.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev-fsfp-config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/dev-fsfp-config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev-fsfp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/dev-fsfp.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/dashboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/dashboard.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/docs.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/docs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/login.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/redoc.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/redoc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/discard-dev-files.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/discard-dev-files.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/generate_cookiecutter_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/generate_cookiecutter_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing-config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/testing-config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/.env" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/.gitlab-ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/alembic/versions/d4867f3a4c0a_first_revision.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/alembic/versions/d4867f3a4c0a_first_revision.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/users.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/api_v1/endpoints/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/utils/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/utils/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/utils/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/api/utils/security.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/backend_pre_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/backend_pre_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/celeryworker_pre_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/celeryworker_pre_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/celery_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/celery_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/jwt.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/jwt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/security.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/core/security.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/crud_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/crud_item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/crud_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/crud/crud_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/base_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/base_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/init_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/init_db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/db/session.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/build/new_account.html" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/build/new_account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/build/reset_password.html" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/build/reset_password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/build/test_email.html" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/build/test_email.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/src/new_account.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/src/new_account.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/src/reset_password.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/src/reset_password.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/src/test_email.mjml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/email-templates/src/test_email.mjml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/initial_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/initial_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/msg.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/msg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/schemas/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_celery.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_celery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/api/api_v1/test_users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/crud/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/crud/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/crud/test_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/crud/test_item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/crud/test_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/crud/test_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/item.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests/utils/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests_pre_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/tests_pre_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/app/worker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/prestart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/prestart.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/scripts/lint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/scripts/lint.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/tests-start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/tests-start.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/worker-start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/app/worker-start.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/backend.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/backend.dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/celeryworker.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/celeryworker.dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/tests.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/backend/tests.dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/cookiecutter-config-file.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/cookiecutter-config-file.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.build.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.command.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.command.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.images.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.images.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.labels.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.labels.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.networks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.networks.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.volumes-placement.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.deploy.volumes-placement.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.build.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.command.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.command.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.env.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.env.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.labels.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.labels.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.networks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.networks.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.ports.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.ports.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.volumes.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.dev.volumes.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.admin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.admin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.base-images.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.base-images.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.depends.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.depends.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.env.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.shared.env.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/docker-compose.test.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-backend.env" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-backend.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-flower.env" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-flower.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-pgadmin.env" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-pgadmin.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-postgres.env" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/env-postgres.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/nginx-backend-not-found.conf" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/nginx-backend-not-found.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-120x120.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-152x152.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-180x180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-60x60.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon-76x76.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/msapplication-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/msapplication-icon-144x144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/mstile-150x150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/img/icons/safari-pinned-tab.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/assets/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/component-hooks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/component-hooks.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/components/NotificationsManager.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/components/NotificationsManager.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/components/RouterComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/components/RouterComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/components/UploadButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/components/UploadButton.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/env.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/env.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/interfaces/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/interfaces/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/plugins/vee-validate.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/plugins/vee-validate.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/plugins/vuetify.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/plugins/vuetify.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/registerServiceWorker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/registerServiceWorker.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/router.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/router.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/shims-tsx.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/shims-tsx.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/shims-vue.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/shims-vue.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/getters.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/getters.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/mutations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/mutations.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/state.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/admin/state.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/getters.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/getters.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/mutations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/mutations.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/state.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/main/state.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/state.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/store/state.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/utils.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/PasswordRecovery.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/PasswordRecovery.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/ResetPassword.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/ResetPassword.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/Dashboard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/Dashboard.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/Main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/Start.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/Start.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/Admin.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/Admin.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/AdminUsers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/AdminUsers.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/CreateUser.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/CreateUser.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/EditUser.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/admin/EditUser.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/profile/UserProfile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/profile/UserProfile.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/profile/UserProfileEdit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/profile/UserProfileEdit.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/profile/UserProfileEditPassword.vue" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/src/views/main/profile/UserProfileEditPassword.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/tests/unit/upload-button.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/tests/unit/upload-button.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/frontend/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/hooks/post_gen_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/hooks/post_gen_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/build-push.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/build-push.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/test-local.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/test-local.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/test.sh" beforeDir="false" afterPath="$PROJECT_DIR$/{{cookiecutter.project_slug}}/scripts/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,9 +48,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.18217358" />
   </component>
@@ -258,9 +65,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" width="1280" height="777" key="SettingsEditor" timestamp="1586731946277">
+    <state x="0" y="23" width="1280" height="777" key="SettingsEditor" timestamp="1590979428498">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="0" y="23" width="1280" height="777" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1586731946277" />
+    <state x="0" y="23" width="1280" height="777" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1590979428498" />
   </component>
 </project>
